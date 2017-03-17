@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xiph.Ogg", "Xiph.Ogg\Xiph.Ogg.csproj", "{519860E9-D168-4752-97AC-7172394A4DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xiph.Ogg.Test", "Xiph.Ogg.Test\Xiph.Ogg.Test.csproj", "{3757CCFA-BE85-4588-9D69-5CA38BAFB213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xiph.App.TestConsole", "Xiph.App.TestConsole\Xiph.App.TestConsole.csproj", "{31B7307F-CF32-46EF-B377-331CD9140B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519860E9-D168-4752-97AC-7172394A4DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519860E9-D168-4752-97AC-7172394A4DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519860E9-D168-4752-97AC-7172394A4DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519860E9-D168-4752-97AC-7172394A4DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3757CCFA-BE85-4588-9D69-5CA38BAFB213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3757CCFA-BE85-4588-9D69-5CA38BAFB213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3757CCFA-BE85-4588-9D69-5CA38BAFB213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3757CCFA-BE85-4588-9D69-5CA38BAFB213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B7307F-CF32-46EF-B377-331CD9140B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B7307F-CF32-46EF-B377-331CD9140B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B7307F-CF32-46EF-B377-331CD9140B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B7307F-CF32-46EF-B377-331CD9140B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
